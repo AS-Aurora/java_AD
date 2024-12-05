@@ -1,6 +1,7 @@
+
 public class Lab7_3 {
     public static int findMissing(int arr[], int size) {
-        int found=0;
+        int found;
         for(int i=0; i<size;i++) {
             found=0;
             for(int j=0;j<size;j++) {

@@ -1,3 +1,4 @@
+
 public class Lab7_2 {
     public static void printDuplicate(int arr[], int size) {
         for(int i=0;i<size;i++) {
